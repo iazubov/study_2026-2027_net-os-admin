@@ -1,5 +1,5 @@
 SHELL := /bin/bash
-COURSE = 
+COURSE = net-os-admin
 
 .PHONY: all clean
 
